@@ -2,7 +2,7 @@ Lars Kellynn
 Software Development 1
 CRN 26663
 
-NWSL Player and Team Tracking System - Version 2024
+NWSL Player and Team Tracking System - Version 2024.1
 
 
 The National Women’s Soccer League (to be referred to as “NWSL”) is the American professional soccer league containing over 300 female soccer players within 14 teams. 
